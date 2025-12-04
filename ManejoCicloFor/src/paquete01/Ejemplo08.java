@@ -20,6 +20,5 @@ public class Ejemplo08 {
             System.out.println();
         }
         
-        
     }
 }
