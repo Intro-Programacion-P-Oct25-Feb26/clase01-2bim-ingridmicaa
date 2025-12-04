@@ -16,7 +16,7 @@ public class Ejercicio01 {
         
         String acumulador = "";
 
-        // Variables para almacenar la suma total de cada columna
+        // Se crean variables para almacenar la suma total en cada uno
         int totalC1 = 0;
         int totalC2 = 0;
         int totalC3 = 0;
